@@ -2,6 +2,7 @@
 
 ## Link To My Endpoint 
 [My Image Filter Link](http://udagram-ebby-image-filter-dev.us-east-1.elasticbeanstalk.com/)
+> http://udagram-ebby-image-filter-dev.us-east-1.elasticbeanstalk.com/
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
@@ -52,3 +53,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ## Link To My Endpoint 
 [My Image Filter Link](http://udagram-ebby-image-filter-dev.us-east-1.elasticbeanstalk.com/)
+> http://udagram-ebby-image-filter-dev.us-east-1.elasticbeanstalk.com/
