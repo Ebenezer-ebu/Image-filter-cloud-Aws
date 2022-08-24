@@ -56,4 +56,4 @@ Add your own domain name and have it point to the running services (try adding a
 > http://udagram-ebby-image-filter-dev.us-east-1.elasticbeanstalk.com/
 
 ## Link To Github Repo
-[Github link](https://github.com/Ebenezer-ebu/Image-filter-cloud-Aws/blob/main/src/server.ts)
+[Github link](https://github.com/Ebenezer-ebu/Image-filter-cloud-Aws)
